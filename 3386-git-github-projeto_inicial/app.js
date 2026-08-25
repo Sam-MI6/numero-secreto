@@ -66,7 +66,7 @@ function reiniciarJogo() {
 }
 // Alteração do Desafio 2git
 // Alteração esquecida no Desafio 2
-
+// Alteração 1 - Desafio 4
 
 
 
