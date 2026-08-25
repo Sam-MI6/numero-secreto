@@ -64,8 +64,8 @@ function reiniciarJogo() {
     exibirMensagemInicial();
     document.getElementById('reiniciar').setAttribute('disabled', true)
 }
-
-
+// Alteração do Desafio 2git
+// Alteração esquecida no Desafio 2
 
 
 
