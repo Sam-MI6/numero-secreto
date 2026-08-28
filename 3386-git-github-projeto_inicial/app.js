@@ -69,5 +69,5 @@ function reiniciarJogo() {
 // Alteração 1 - Desafio 4
 // Alteração 2 - Desafio 4
 // Alteração 1 - Desafio 1
-
+// Alteração 2 - Desafio 2
 
