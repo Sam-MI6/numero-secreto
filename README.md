@@ -1,0 +1,2 @@
+Print da pré-visualização da documentação. Fundo preto e letras brancas. O título é "Jogo do número secreto" e está em destaque devido ao tamanho da fonte, maior que nos demais textos. Abaixo, há um campo "Sobre", com a descrição do projeto: "Projeto utilizado nos cursos de lógica de programação da Alua". Depois, temos o campo "Tecnologias": "HTML"; "css"; e "JAVASCRIPT". O último campo é "Time", com as fotos e nomes das pessoas que integram o time: Gabrielle Ribeiro e Rodrigo Caneppele.
+
