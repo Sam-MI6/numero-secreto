@@ -1,0 +1,93 @@
+[33mcommit d77f0ab49fb1c7fdffc5399de72d33fe3fa87472[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Samir Freitas <samir.cf@hotmail.com>
+Date:   Fri Aug 28 10:00:19 2026 -0300
+
+    revert: desfaz alteração 2 do desafio 2
+
+[33mcommit bd5237bc6b1cbd0b26ad0fa980609daee8fe70f8[m
+Author: Samir Freitas <samir.cf@hotmail.com>
+Date:   Fri Aug 28 09:40:43 2026 -0300
+
+    feat: adiciona alteração 2 do desafio 2
+
+[33mcommit 3e8c36d987ff717d1ab638b9a8a9c8fdd5454622[m
+Author: Samir Freitas <samir.cf@hotmail.com>
+Date:   Fri Aug 28 09:25:23 2026 -0300
+
+    adicionar alteração 1 do desafio 1
+
+[33mcommit 9ecf953dae66799916cb1af4edb388a2b7431056[m
+Author: Samir Freitas <samir.cf@hotmail.com>
+Date:   Fri Aug 28 09:16:02 2026 -0300
+
+    Revert "adicionar arquivio para teste do git revert"
+    
+    This reverts commit 3bf00bc38b7432cf0a15a8231ff6470af352d2ef.
+
+[33mcommit 3bf00bc38b7432cf0a15a8231ff6470af352d2ef[m
+Author: Samir Freitas <samir.cf@hotmail.com>
+Date:   Fri Aug 28 09:14:08 2026 -0300
+
+    adicionar arquivio para teste do git revert
+
+[33mcommit 4a79fc863b8c4764f275173006d1a9a3313e920f[m
+Author: Samir Freitas <samir.cf@hotmail.com>
+Date:   Tue Aug 25 11:37:06 2026 -0300
+
+    Alteração da Memsagem
+
+[33mcommit cca40c4ec2a0209ede16354a654740b10609793d[m
+Author: Samir Freitas <samir.cf@hotmail.com>
+Date:   Tue Aug 25 11:35:23 2026 -0300
+
+    Alteração 1 do desafio 4
+
+[33mcommit 4853da397dbbd899e3deb4ceebc8c2da0094c5fa[m
+Author: Samir Freitas <samir.cf@hotmail.com>
+Date:   Tue Aug 25 11:06:16 2026 -0300
+
+    Revert "Adiciona arquivo do desafio 3"
+    
+    This reverts commit 7ebc71ea48e7c9f8cdae1c1c0201161f8c201422.
+
+[33mcommit 7ebc71ea48e7c9f8cdae1c1c0201161f8c201422[m
+Author: Samir Freitas <samir.cf@hotmail.com>
+Date:   Tue Aug 25 11:04:27 2026 -0300
+
+    Adiciona arquivo do desafio 3
+
+[33mcommit 72cb10432f412941e3bb22090f5bd04594013e59[m
+Author: Samir Freitas <samir.cf@hotmail.com>
+Date:   Tue Aug 25 10:33:26 2026 -0300
+
+    Novo Código
+
+[33mcommit a5ddbf99c764699d695eec9049b7f653db0c474a[m
+Author: Samir Freitas <samir.cf@hotmail.com>
+Date:   Tue Aug 25 10:22:13 2026 -0300
+
+    Atualiza código
+
+[33mcommit dd0cd5b59f73bae20424f5f6ab84b3d1942c0c72[m
+Author: Samir Freitas <samir.cf@hotmail.com>
+Date:   Mon Aug 17 07:40:30 2026 -0300
+
+    NOVA MENSAGEM
+
+[33mcommit b168f34a623f76ebe9e0e1a7e42094d3f0dfb703[m
+Author: Samir Freitas <samir.cf@hotmail.com>
+Date:   Thu Aug 13 10:00:06 2026 -0300
+
+    Deixando o jogo mais facil
+
+[33mcommit 767948685177306dee37ed6d9d093cd66c4e23a1[m
+Author: Samir Freitas <samir.cf@hotmail.com>
+Date:   Mon Jul 27 09:03:02 2026 -0300
+
+    alterando limite para 100
+
+[33mcommit eee1f718829a42fe462ed93d82d17e14b7623fa5[m
+Author: Samir Freitas <samir.cf@hotmail.com>
+Date:   Sun Apr 26 10:10:35 2026 -0300
+
+    projeto inicial
